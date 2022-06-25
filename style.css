@@ -54,6 +54,8 @@
       }
       .social-media {
         color: aliceblue;
+          display:flex;
+          
       }
       .skills {
         font-size: 0.75rem;
